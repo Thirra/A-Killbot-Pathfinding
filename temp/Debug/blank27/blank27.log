@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  bot.cpp
+c:\users\ktschirpig\desktop\freshbot\killbots_student_2.8.0\projects\blank27\bot.cpp(14): warning C4311: 'type cast': pointer truncation from 'Blank *const ' to 'int'
+c:\users\ktschirpig\desktop\freshbot\killbots_student_2.8.0\projects\blank27\bot.cpp(14): warning C4302: 'type cast': truncation from 'Blank *const ' to 'int'
+c:\users\ktschirpig\desktop\freshbot\killbots_student_2.8.0\projects\blank27\bot.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'kf::u32', possible loss of data
+c:\users\ktschirpig\desktop\freshbot\killbots_student_2.8.0\projects\blank27\bot.cpp(25): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\ktschirpig\desktop\freshbot\killbots_student_2.8.0\projects\blank27\bot.cpp(103): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  blank27.vcxproj -> C:\Users\ktschirpig\Desktop\FreshBot\killbots_student_2.8.0\bin\data\bots\blank27\blank27_d.dll
+  blank27.vcxproj -> C:\Users\ktschirpig\Desktop\FreshBot\killbots_student_2.8.0\bin\data\bots\blank27\blank27_d.pdb (Full PDB)
